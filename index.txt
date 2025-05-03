@@ -1,24 +1,22 @@
-vCard - Personal Portfolio
-
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Luis Blas
+Luis Blas
+Electrical Engineering & Computer Science Student
 
 Show Contacts
 
 Email
-richard@example.com
+luisblas@example.com
 
 Phone
-+1 (213) 352-2795
++1 (XXX) XXX-XXXX
 
 Birthday
-June 23, 1982
+June 9, 2003
 
 Location
-Sacramento, California, USA
+California, USA
 
 # navbar
 
@@ -32,204 +30,126 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I’m a student of Electrical Engineering and Computer Science with a strong passion for sustainable technologies, research, and social impact. I enjoy solving technical problems that have real-world implications, especially in areas like environmental engineering, robotics, and community-based innovation.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+My work includes research on MHD pumps, wave buoy sensors, and accessible Arduino workshops. I believe in using technology to empower underrepresented communities, simplify complex concepts for learners, and contribute to equitable scientific progress.
 
 ## service
 
-What i'm doing
+What I’m doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Educational Outreach
+Creating hands-on STEM workshops with Arduino sensors and real-world applications.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Engineering Projects
+Developing sustainable tech like MHD pumps and wind tunnels for research and community use.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Student Support
+Mentoring and guiding first-gen and transfer students through clubs, tutoring, and leadership.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
+Documentation
+Creating visual aids, flyers, and presentations to support student-led initiatives and science communication.
 
 ## testimonials
 
-Testimonials
+Note: Placeholder text below; feel free to add real quotes later.
 
 alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Daniel Lewis
+Luis led our Arduino 101 workshop with clarity and patience. He’s an excellent communicator who inspires confidence in STEM.
 
 alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Jessica Miller
+Luis’s work on the wind tunnel project turned limited resources into a powerful learning tool. His creativity and leadership stood out.
 
 alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Emily Evans
+Luis guided our Puente Club with compassion and vision, helping us balance culture, education, and advocacy for undocumented students.
 
 alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
+Henry William
+Luis’s MHD pump research was one of the most impressive presentations at the symposium. His drive to make tech sustainable is clear.
 
 ## clients
 
-Clients
-
-alt = client logo
-
-
+Community Colleges, Research Labs, Nonprofits, Student Clubs
+(Feel free to list affiliations like APL UW, UCSC Farm, your club, etc.)
 
 # resume
 
-Resume
-
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Electrical Engineering & Computer Science (in progress)
+Community College – Expected Transfer 2025
+Hands-on coursework in circuits, programming, chemistry, and environmental science.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Research Honors Program
+Conducted interdisciplinary research in ocean engineering and MHD propulsion systems.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Undergraduate Researcher – APL UW
+Summer 2024
+Studied wave dynamics and climate impacts using microSWIFT buoys in the Bering Sea.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Intern – UCSC Engineering and Farm
+Summer 2023
+Worked on autonomous tractors and weed-detection systems for sustainable agriculture.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Club Treasurer & Mentor – Puente Club
+2023 – Present
+Organized student-led workshops, planned transfer events, and supported undocumented students in STEM.
 
 My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
+Arduino/Microcontrollers
 90%
-WordPress
-50%
-
-
+Data Analysis & Research
+85%
+STEM Workshop Design
+80%
+Team Leadership
+85%
+CAD/Schematics
+70%
 
 # portfolio
 
-Portfolio
+Sample Projects:
 
-All
-Web design
-Applications
-Web development
+alt = arduino 101
+Arduino 101 Workshop
+STEM education & hands-on engineering outreach
 
-Select category
-All
-Web design
-Applications
-Web development
+alt = wind tunnel
+Wind Tunnel
+Aerodynamic testing device built with limited resources
 
-alt = finance
-Finance
-Web development
+alt = MHD pump
+MHD Pump Prototype
+Sustainable water pumping using electromagnetic principles
 
-alt = orizon
-Orizon
-Web development
-
-alt = fundo
-Fundo
-Web design
-
-alt = brawlhalla
-Brawlhalla
-Applications
-
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
+alt = microSWIFT dashboard
+microSWIFT Buoy Dashboard
+Interactive data visualization for ocean monitoring
 
 # blog
 
-Blog
+You could share posts on:
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+How I Built a Wind Tunnel from Scratch
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+Making Arduino Fun for First-Gen Students
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+Exploring MHD: Science, Simplicity, and Sustainability
 
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
+Lessons from Being a Tutor and Leader in STEM
 
 # contact
-
-Contact
 
 Contact Form
 
